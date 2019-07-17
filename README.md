@@ -8,7 +8,7 @@
 
 - 图片显示：
 
-<img src="gif\glide.gif" style="zoom:50%">
+<img src="gif\glide.gif" style="zoom:10%">
 
 由图可见，在未授权时会出现红叹号，授权后正常显示图片。
 
@@ -16,7 +16,7 @@
 
 - ijk视频播放：
 
-<img src="gif\video.gif" style="zoom:50%">
+<img src="gif\video.gif" style="zoom:10%">
 
 
 
